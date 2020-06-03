@@ -1,0 +1,4 @@
+tasks:
+- init: >
+    python3 --version &&
+    python2 --version
